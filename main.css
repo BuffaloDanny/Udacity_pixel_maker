@@ -1,0 +1,14 @@
+<style type="text/css">
+.form-group{
+position:relative;
+}
+.text-error{
+position:absolute;
+right:0;
+top:0px;
+background:red;
+color:white;
+border-radius:5px;
+padding:5px 3px;
+}
+</style>
